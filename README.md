@@ -4,7 +4,7 @@
 ### Playwright with Azure DevOps Pipeline - https://bit.ly/playwright-azure-devops-tutorial
 
 #### Install Playwright & Select Configurations
-- npm init playwright@latest
+- npm init playwright@latest 
 
 Playwright will download the browsers needed as well as create the following files.
 
